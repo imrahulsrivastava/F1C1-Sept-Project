@@ -1,0 +1,21 @@
+nav ul {
+  display: flex;
+  list-style-type: none;
+}
+
+nav ul li {
+  padding-inline: 5px;
+}
+
+table,
+thead,
+tbody,
+th,
+td {
+  border: 1px solid black;
+}
+
+th,
+td {
+  padding: 2px 5px;
+}
